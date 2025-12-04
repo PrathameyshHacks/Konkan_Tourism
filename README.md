@@ -13,6 +13,8 @@ Konkan Wonders is designed to serve as a digital travel companion for tourists. 
 and provides easy access to hotel information and maps. Whether you're an adventure lover or someone who admires scenic beauty, this app is perfect for
 planning a memorable trip!
 
+Web Page - https://prathameyshacharekar.github.io/konkan_tourism/
+
 ---
 
 ## ✨ Key Features
